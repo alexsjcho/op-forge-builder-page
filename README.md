@@ -1,4 +1,4 @@
-# Forge Builder Landing Page
+# op-forge-builder-page
 
 A standalone, dark-themed landing page for Forge Builder. The page is a single self-contained `index.html`, so there's no build step.
 
